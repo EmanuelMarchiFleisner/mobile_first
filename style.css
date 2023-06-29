@@ -1,5 +1,5 @@
 * {
-    font-family: 'Roboto';
+    font-family: 'Arial';
 }
 
 .h1 {
@@ -9,7 +9,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #ececec;
+    background-color: gray;
 }
 
 .container {
@@ -59,17 +59,17 @@ img {
     padding: 10px;
     font-size: 14px;
     font-weight: 600;
-    background-color: #fff;
+    background-color: cornflowerblue;
 }
 
 .title-stop {
     font-size: 20px;
     margin: 0;
-    color: #000;
+    color: Red;
 }
 
 .return {
-    color: white;
+    color: Gray;
     text-decoration: none;
     left: 10px;
     position: absolute;
